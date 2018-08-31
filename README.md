@@ -5,6 +5,6 @@
 
 This is link to the [Social website](http://simonburyan.cz/circ/register.php).
 
-Current: Section 5 Lecture 33.
+Current: Section 6 Lecture 37.
 
 LocalHost version: no database transfer provided!
