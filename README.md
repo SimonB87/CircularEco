@@ -7,4 +7,4 @@ This is link to the [Social website](http://simonburyan.cz/circ/register.php).
 
 Current: Section 7 Lecture 51.
 
-LocalHost version: no database transfer provided!
+LocalHost version: database archive provided as for Lesson 50!
