@@ -49,7 +49,9 @@ else {
     <a href="#"><i class="fa fa-bell-o fa-lg"></i></a>
     <a href="#"><i class="fa fa-users fa-lg"></i></a>
     <a href="#"><i class="fa fa-cog fa-lg"></i></a>
+    <a href="#"><i class="fas fa-question"></i></a><!-- link to user-manual -->
     <a href="includes\handlers\logout.php"><i class="fa fa-sign-out-alt fa-lg"></i></a>
+
   </nav>
 
 </div>
