@@ -139,3 +139,19 @@ nav a:hover{
   padding: 6px 4px 4px 6px;
   color: red;
 }
+
+.status_post {
+  width: 96%;
+  font-size: 15px;
+  padding: 0px 5px;
+  min-height: 75px;
+}
+
+.post_profile_pic {
+  float: left;
+  margin-right: 7px;
+}
+
+.reply_pic {
+  border-radius: 5px;
+}
